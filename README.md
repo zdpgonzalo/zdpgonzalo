@@ -9,7 +9,8 @@
   &nbsp;
   <a href="README.es.md"><img src="assets/lang-es-inactive.svg" alt="Español" height="38" /></a>
 
-  <br/><br/>
+  <br/>
+  <br/>
 
   <!-- CONTACT -->
   <a href="https://www.linkedin.com/in/gonzalo-g%C3%B3mez-tejedor/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="46" /></a>
