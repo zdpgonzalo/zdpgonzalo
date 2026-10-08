@@ -9,8 +9,7 @@
   &nbsp;
   <img src="assets/lang-es-active.svg" alt="Español (actual)" height="38" />
 
-  <br/>
-  <br/>
+  
 
   <!-- CONTACT -->
   <a href="https://www.linkedin.com/in/gonzalo-g%C3%B3mez-tejedor/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="46" /></a>
